@@ -1,0 +1,17 @@
+.container-lista-tarefas {
+    width: 60%;
+    text-align: left;
+    display:flex;
+    flex-direction: column;
+    justify-self: center;
+}
+
+.item-tarefa {
+    margin: 5px 0px;
+    padding: 3px;
+    font-size: 1.1rem;
+}
+
+.item-tarefa input {
+    margin: 0px 8px;
+}

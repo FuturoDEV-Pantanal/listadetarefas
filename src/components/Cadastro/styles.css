@@ -1,0 +1,20 @@
+.container-cadastro {
+    margin: 25px 0px;
+}
+
+.container-cadastro label { 
+    font-size: 1.3rem;
+}
+
+.container-cadastro input {
+    margin: 0px 10px;
+    font-size: 1.2rem;
+    color: darkblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container-cadastro button { 
+    font-size: 1.1rem;
+    padding: 5px 10px;
+}
